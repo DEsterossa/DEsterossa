@@ -1,6 +1,8 @@
-## Hi there 👋
+# Начкин Дмитрий
 
-About me
+## Beginner Data Scientist
+"In God we trust, all others bring data." — У. Эдвардс Деминг
+<br/><br/>
 
 Tools
 
