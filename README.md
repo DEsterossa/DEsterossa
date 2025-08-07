@@ -7,7 +7,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
+  <a href="https://drive.google.com/file/d/16vlkYCHW2NE3Gd7cELy6_BcTmv-SGGle/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
   </a>
   <a href="https://t.me/de_nachkin">
